@@ -6,8 +6,8 @@
 ##
 
 <div class="Sprites">
-  <img width="297" height="177" alt="Megaman atirando" src="https://github.com/user-attachments/assets/cfd50844-73fc-4123-83c3-9004d0317433" /> <img width="204" height="180" alt="Tela vs" src="https://github.com/user-attachments/assets/39f1b97a-bb7e-4e3e-8b1c-c919d2a05468" />
-   <img width="327" height="177" alt="Captura de tela 2026-01-28 190736 (1)" src="https://github.com/user-attachments/assets/ecdd654d-fce2-4f08-b9fb-06c57f6e4b7b" />
+  <img width="267" height="147" alt="Megaman atirando" src="https://github.com/user-attachments/assets/cfd50844-73fc-4123-83c3-9004d0317433" /> <img width="164" height="160" alt="Tela vs" src="https://github.com/user-attachments/assets/39f1b97a-bb7e-4e3e-8b1c-c919d2a05468" />
+   <img width="307" height="157" alt="Captura de tela 2026-01-28 190736 (1)" src="https://github.com/user-attachments/assets/ecdd654d-fce2-4f08-b9fb-06c57f6e4b7b" />
 </div>
 
 ## 
@@ -35,8 +35,8 @@
 
 ### Gameplay (Megaman) 
 
-<img width="145" height="170" alt="Megaman3" src="https://github.com/user-attachments/assets/731ead88-f2ee-45d8-9f4c-f03a9379e807" />
-  <img width="119" height="170" alt="Megaman1" src="https://github.com/user-attachments/assets/e0d257ea-d326-4d92-959e-9f1bb1cc1448" /> <img width="177" height="160" alt="Megaman2" src="https://github.com/user-attachments/assets/55fd29e0-1a6e-46de-a6de-df926a1b9ae4" /><img width="159" height="170" alt="Megaman4" src="https://github.com/user-attachments/assets/8970c882-9dab-4652-aab4-060db8eddf0d" /> <img width="146" height="170" alt="Captura de tela 2026-02-02 184849" src="https://github.com/user-attachments/assets/d63af676-4844-44d7-b423-e48ab5f760a3" /><img width="223" height="170" alt="Captura de tela 2026-02-02 185528" src="https://github.com/user-attachments/assets/a53c9f66-bf71-45be-9471-96deb08c0f1a" />
+<img width="125" height="150" alt="Megaman3" src="https://github.com/user-attachments/assets/731ead88-f2ee-45d8-9f4c-f03a9379e807" />
+  <img width="99" height="150" alt="Megaman1" src="https://github.com/user-attachments/assets/e0d257ea-d326-4d92-959e-9f1bb1cc1448" /> <img width="157" height="150" alt="Megaman2" src="https://github.com/user-attachments/assets/55fd29e0-1a6e-46de-a6de-df926a1b9ae4" /><img width="139" height="150" alt="Megaman4" src="https://github.com/user-attachments/assets/8970c882-9dab-4652-aab4-060db8eddf0d" /> <img width="136" height="150" alt="Captura de tela 2026-02-02 184849" src="https://github.com/user-attachments/assets/d63af676-4844-44d7-b423-e48ab5f760a3" /> <img width="193" height="150" alt="Captura de tela 2026-02-02 185528" src="https://github.com/user-attachments/assets/a53c9f66-bf71-45be-9471-96deb08c0f1a" />
 
 
 
